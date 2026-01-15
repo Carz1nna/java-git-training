@@ -43,4 +43,10 @@ public class Calculator {
             System.out.println(pow);
     }
     System.out.println()
+        public static void squareRoot();
+
 }
+         
+        
+
+ squareRoot(x)
