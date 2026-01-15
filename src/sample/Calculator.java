@@ -49,4 +49,6 @@ public class Calculator {
          
         
 
- squareRoot(x)
+ public static vlodsquareRoot(x) {
+     Math.sqrt(x)
+ }
